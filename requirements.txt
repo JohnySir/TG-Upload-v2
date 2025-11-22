@@ -1,0 +1,8 @@
+pyrogram
+tgcrypto
+aiofiles
+natsort
+pillow
+tenacity
+customtkinter
+hachoir
